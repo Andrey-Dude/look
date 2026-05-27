@@ -6,7 +6,7 @@
     },
     {
       "source": "/:path*",
-      "destination": "https://www.lookdigitalsignage.com/:path*"
+      "destination": "https://look-new.webflow.io/:path*"
     }
   ]
 }
